@@ -8,8 +8,25 @@ If they did not it prompts them to input a new value, and only breaks the loop o
 I tried figuring out TryParse and I somewhat understand how it works. 
 I used for loops to reverse the words. You start at the end of the index and work packwords saving each letter onto a new variable. 
 
-Peer Reviewer:
-Review: 
+Peer Reviewer:Chris Estrada
+Review: This was a lot more than i was expecting but for the most part it does differentiate between string and int and run the complete program.
+There is a step on your flowchart that was not included in the code to check if a string is entered after the user chooses string (i,e no output to tell the
+user to enter an int instead or a way to check for it).
+
+Do you want to do int or string?string                                                                                                                                       
+Please enter a word: 234                                                                                                                                                     
+ Your orignal word is:  234                                                                                                                                                  
+ Your reversed number is:  432 
+                                                                                                                                        
+
+Also if I do enter an int after choosing string, the above displays showing that the output still sees it as a number. This is the same
+whether its an int or a string. 
+
+ Console.WriteLine($" Your orignal word is:  {word}"); 
+        Console.WriteLine($" Your reversed number is:  {newWord}"); 
+
+Other suggestions: there are some misspellings and it would probably be good to think about the user interface, and you did on your flow chart, 
+to use "number" and "word" instead of int or string. The flowchart is really well done and 
 */ 
 
 Console.Clear(); 

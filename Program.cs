@@ -71,15 +71,15 @@ while(ans != "string" && ans != "int")
     } //end if for numbers
     else
     {
-        Console.Write("Please enter a word: ");
+        Console.Write("Please enter a string: ");
         string word = Console.ReadLine(); 
         string newWord = ""; 
          for(int i = word.Length - 1; i >= 0; i--)
         {
              newWord += word[i]; 
         } 
-         Console.WriteLine($" Your orignal word is:  {word}"); 
-        Console.WriteLine($" Your reversed number is:  {newWord}"); 
+         Console.WriteLine($" Your orignal string is:  {word}"); 
+        Console.WriteLine($" Your reversed string is:  {newWord}"); 
 
 
     }//end else

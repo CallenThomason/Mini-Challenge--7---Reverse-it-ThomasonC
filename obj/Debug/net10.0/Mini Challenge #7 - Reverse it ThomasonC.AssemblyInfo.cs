@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Challenge #7 - Reverse it ThomasonC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b64a120deb25dc29952a9f75ad77044527da95d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Challenge #7 - Reverse it ThomasonC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Challenge #7 - Reverse it ThomasonC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

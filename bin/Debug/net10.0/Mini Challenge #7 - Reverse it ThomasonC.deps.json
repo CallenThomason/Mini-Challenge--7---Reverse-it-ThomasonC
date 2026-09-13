@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Mini Challenge #7 - Reverse it ThomasonC/1.0.0": {
+        "runtime": {
+          "Mini Challenge #7 - Reverse it ThomasonC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mini Challenge #7 - Reverse it ThomasonC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

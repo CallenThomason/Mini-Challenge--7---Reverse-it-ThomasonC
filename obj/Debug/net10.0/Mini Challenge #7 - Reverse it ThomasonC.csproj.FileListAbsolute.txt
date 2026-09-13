@@ -1,0 +1,14 @@
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\obj\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\obj\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.AssemblyInfoInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\obj\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.AssemblyInfo.cs
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\obj\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.csproj.CoreCompileInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\bin\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.exe
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\bin\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.deps.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\bin\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.runtimeconfig.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\bin\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\bin\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\obj\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\obj\Debug\net10.0\refint\Mini Challenge #7 - Reverse it ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\obj\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\obj\Debug\net10.0\Mini Challenge #7 - Reverse it ThomasonC.genruntimeconfig.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #7 - Reverse it ThomasonC\obj\Debug\net10.0\ref\Mini Challenge #7 - Reverse it ThomasonC.dll

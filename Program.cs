@@ -29,6 +29,9 @@ Other suggestions: there are some misspellings and it would probably be good to 
 to use "number" and "word" instead of int or string. The flowchart is really well done and 
 */ 
 
+//Peer Rewiew Name: Brandon Langehennig
+//Review: Great Job, love seeing the different approach to my own code.
+
 Console.Clear(); 
 Console.WriteLine("Welcome to reverse simulator");
 char complete = 'N'; 
